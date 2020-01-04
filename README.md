@@ -15,3 +15,7 @@ The code is from [javidx9's video](https://www.youtube.com/watch?v=FOIbK4bJKS8)
 ## Settings for VS
 
 Check the video
+
+## Notes
+
+.exe not included, thus you must build it first
